@@ -11,3 +11,5 @@
 
 [FSD Project 5](https://github.com/riya-kondawar/fsd5-form-website) :- User Information Form Website
 
+[FSD Project: Calculator](https://github.com/riya-kondawar/calculator) :- Simple Calculator using Js
+
