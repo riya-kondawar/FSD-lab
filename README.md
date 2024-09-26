@@ -11,14 +11,17 @@
 
 [FSD Project 5](https://github.com/riya-kondawar/fsd5-form-website) :- User Information Form Website
 
-[FSD lab3 Task1: Calculator](https://github.com/riya-kondawar/calculator) :- Simple Calculator using Js
+### FSD Lab3
+[FSD lab3 Task1](https://github.com/riya-kondawar/calculator) :- Simple Calculator using Js
 
-[FSD lab3 Task2: Registration Form](https://github.com/riya-kondawar/Music-class-form) :- Simple UI for a registration form created using Js
+[FSD lab3 Task2](https://github.com/riya-kondawar/Music-class-form) :- Simple UI for a registration form created using Js
 
-[FSD lab3 Task3: DOM Manipulation](https://github.com/riya-kondawar/calculator) :- Simple Calculator using Js
+[FSD lab3 Task3](https://github.com/riya-kondawar/Avengers-DOM-manipulation) :- DOM Manipulation: Avengers Theme
 
-[FSD lab5 Task1: React Form](#) :- Simple calculator using React
+### FSD Lab5
+[FSD lab5 Task1](#) :- Calculator using React
 
-[FSD lab5 Task2: React Form](https://github.com/riya-kondawar/react-form) :- Simple registration form using React
+[FSD lab5 Task2](https://github.com/riya-kondawar/react-form) :- Registration form using React
 
-[FSD lab5 Task3: Resume Builder](#) :- Resume builder UI using React
+[FSD lab5 Task3](#) :- Resume builder UI using React
+
