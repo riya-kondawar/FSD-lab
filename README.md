@@ -19,9 +19,9 @@
 [FSD lab3 Task3](https://github.com/riya-kondawar/Avengers-DOM-manipulation) :- DOM Manipulation: Avengers Theme
 
 ### FSD Lab5
-[FSD lab5 Task1](#) :- Calculator using React
+[FSD lab5 Task1](#) :- Calculator using React (IN PROCESS)
 
 [FSD lab5 Task2](https://github.com/riya-kondawar/react-form) :- Registration form using React
 
-[FSD lab5 Task3](#) :- Resume builder UI using React
+[FSD lab5 Task3](#) :- Resume builder UI using React (IN PROCESS)
 
