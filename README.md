@@ -18,10 +18,21 @@
 
 [FSD lab3 Task3](https://github.com/riya-kondawar/Avengers-DOM-manipulation) :- DOM Manipulation: Avengers Theme
 
+### FSD Lab4
+[FSD lab4 Task1](#) :- Form validation and create database application using PHP and MySQL
+
 ### FSD Lab5
 [FSD lab5 Task1](https://github.com/riya-kondawar/calculator-react) :- Calculator using React & Tailwind CSS 
 
 [FSD lab5 Task2](https://github.com/riya-kondawar/react-form) :- Registration form using React
 
-[FSD lab5 Task3](#) :- Resume builder UI using React (IN PROCESS)
+[FSD lab5 Task3](https://github.com/riya-kondawar/react-resume-builder) :- Resume builder UI using React 
+
+### FSD Lab6
+[FSD lab6 Task1](#) :- REST API using Express and Node 
+
+### FSD Lab7
+[FSD lab7 Task1](#) :- Web app using MERN stack to perform CRUD
+
+
 
